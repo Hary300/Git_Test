@@ -1,2 +1,5 @@
 # Git_Test
-📚 Learning
+
+Category: 📚 Learning
+
+Hello Odin!
