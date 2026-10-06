@@ -1,4 +1,4 @@
-# Git_Test
+# Git Test From The Odin Project
 
 Category: 📚 Learning
 
